@@ -41,7 +41,7 @@ h2 {
 
 h3 {
   font-style: italic;
-  font-size: 20px;
+  font-size: 22px;
   color: #000;
   line-height: 22px;
 }
@@ -64,7 +64,7 @@ h5 {
 
 .date-text {
   font-style: italic;
-  font-size: 14px;
+  font-size: 16px;
   color: #999;
   line-height: 16px;
   float: left;
@@ -86,7 +86,7 @@ p {
 }
 
 a {
-  color: #1199c3;
+  color: #1199CC;
   text-decoration: none;
   margin-top: 10px;
   display: block;
@@ -211,4 +211,26 @@ span {
   .biopic {
     display: block;
   }
+}
+
+.role {
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+}
+
+.mooc-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.error {
+  text-align: center;
+  font-size: 30px;
+}
+
+.center {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
 }
